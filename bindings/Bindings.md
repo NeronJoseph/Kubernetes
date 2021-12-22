@@ -1,0 +1,1 @@
+In order to bind a pod to a node, we should create the bindings yaml file and then create its json format. Then we need to send curl request for binding. 
