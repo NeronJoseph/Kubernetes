@@ -12,6 +12,6 @@ spec:
     nodeAffinity:
       requiredDuringSchedulingIgnoredDuringExecution:
         nodeSelectorTerms:
-          - matchExpression:
+          - matchExpressions:
               - key: size
                 operator: Exists
