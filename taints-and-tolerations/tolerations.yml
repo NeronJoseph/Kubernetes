@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: nginx
+spec:
+  containers:
+  -  image: nginx
+     name: nginx
+  tolerations: 
+  -
+    key: “color”
+    operator: “=”
+    value: “blue”
+    effect: “NoSchedule” 

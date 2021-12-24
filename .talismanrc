@@ -1,3 +1,7 @@
 fileignoreconfig:
 - filename: node-selectors/node-selector.md
   checksum: 8181c8634d9e2997fe4bd85ca124113ba3f40ae371f1813427e200e8b3ac9e84
+- filename: taints-and-tolerations/taints-n-tolerations.md
+  checksum: ae048b73f89200b8ba6fc34ddb8443c4a62f0d5b92f2a9711a4fbe3cb3daac67
+- filename: taints-and-tolerations/tolerations.yml
+  checksum: f62852dbfd42c61dc90a928e25c21d2afa5ac2bbea642ca7786cbf0088f0298d
