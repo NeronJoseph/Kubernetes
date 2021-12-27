@@ -1,0 +1,1 @@
+In order for a cluster to set the default limits for memory and cpu, it needs to be manually set by the user. The given files in this directory will set a default value for memory and cpu. 
