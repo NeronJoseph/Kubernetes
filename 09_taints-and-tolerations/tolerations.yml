@@ -9,6 +9,6 @@ spec:
   tolerations: 
   -
     key: “color”
-    operator: “=”
+    operator: “Equal”
     value: “blue”
     effect: “NoSchedule” 
