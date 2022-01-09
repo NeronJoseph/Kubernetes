@@ -1,4 +1,8 @@
 fileignoreconfig:
+- filename: 20_tls-certificates-for-k8s/ca.srl
+  checksum: 6741c2ec7e1aaa81dbb4d23a8ebc7c42e60385f4f1cbca3edebc9c7279fca062
+- filename: 20_tls-certificates-for-k8s/generate-ca-certificates.sh
+  checksum: f23b4bb3acfb291c198c63e693f34be8805a118be6280cb8c5f3859210cf53ef
 - filename: node-selectors/node-selector.md
   checksum: 8181c8634d9e2997fe4bd85ca124113ba3f40ae371f1813427e200e8b3ac9e84
 - filename: taints-and-tolerations/taints-n-tolerations.md
