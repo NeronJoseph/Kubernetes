@@ -5,6 +5,8 @@ fileignoreconfig:
   checksum: f23b4bb3acfb291c198c63e693f34be8805a118be6280cb8c5f3859210cf53ef
 - filename: 21_Lab-tls-certificates/certificate-signing-request-object.yml
   checksum: ad4fbd324dc13df720e480b81e77a83a6b05dd5bed79d8f18ac722475261bb7d
+- filename: 22_kube-config/sample-kube-config-file.yml
+  checksum: ada3019e112ce7585423d1e607d91755a4976278ee3e89d7fc0b4c3bc56d53ba
 - filename: node-selectors/node-selector.md
   checksum: 8181c8634d9e2997fe4bd85ca124113ba3f40ae371f1813427e200e8b3ac9e84
 - filename: taints-and-tolerations/taints-n-tolerations.md
