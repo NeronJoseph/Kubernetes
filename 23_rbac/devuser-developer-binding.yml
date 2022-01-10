@@ -5,7 +5,7 @@ kind: RoleBinding
 metadata: 
   name: devuser-developer-binding
 
-subject:
+subjects:
   - kind: User
     name: dev-user
     apiGroup: rbac.authorization.k8s.io
