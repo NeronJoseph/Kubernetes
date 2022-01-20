@@ -7,6 +7,8 @@ fileignoreconfig:
   checksum: ad4fbd324dc13df720e480b81e77a83a6b05dd5bed79d8f18ac722475261bb7d
 - filename: 22_kube-config/sample-kube-config-file.yml
   checksum: ada3019e112ce7585423d1e607d91755a4976278ee3e89d7fc0b4c3bc56d53ba
+- filename: 24_image-security/create-k8s-secret-with-private-repo-creds.yml
+  checksum: cbc15d0690c1614865e4c557f7feccee8cb9477c813d2a19ddd8cefbd2093a44
 - filename: node-selectors/node-selector.md
   checksum: 8181c8634d9e2997fe4bd85ca124113ba3f40ae371f1813427e200e8b3ac9e84
 - filename: taints-and-tolerations/taints-n-tolerations.md
