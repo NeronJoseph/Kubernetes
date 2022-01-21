@@ -10,7 +10,7 @@ fileignoreconfig:
 - filename: 24_image-security/Lab/create-secret-for-registry-authentication.sh
   checksum: 4997f81c15179e75ec4f6f3fe8d90b22ee96d461a58e4e0aefe73f248b1c8b0c
 - filename: 24_image-security/create-k8s-secret-with-private-repo-creds.yml
-  checksum: cbc15d0690c1614865e4c557f7feccee8cb9477c813d2a19ddd8cefbd2093a44
+  checksum: 021a03596d72a809f644154a6b59c69fd8177265eb0584cecb7efafbdb6a18eb
 - filename: node-selectors/node-selector.md
   checksum: 8181c8634d9e2997fe4bd85ca124113ba3f40ae371f1813427e200e8b3ac9e84
 - filename: taints-and-tolerations/taints-n-tolerations.md
