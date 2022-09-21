@@ -26,3 +26,6 @@ kubectl expose pod redis --port=6379 --name redis-service --dry-run=client -o ya
 
 # Other method of creating service
 kubectl create service clusterip redis --tcp=6379:6379 --dry-run=client -o yaml
+
+# Edit a deployment manifest file
+kubectl edit deployment <deployment-name> 
