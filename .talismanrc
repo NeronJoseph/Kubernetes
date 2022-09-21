@@ -13,6 +13,8 @@ fileignoreconfig:
   checksum: 021a03596d72a809f644154a6b59c69fd8177265eb0584cecb7efafbdb6a18eb
 - filename: 28_environment-variables/environment-variables.yml
   checksum: 79e68d1a28084f0a583166f6d2fed89f828727c6ef9241e22265abfaac5ebb54
+- filename: 29_configmaps/create-configmaps.sh
+  checksum: d5195339ec991639f1ec6c59d217e6186eda50d00d3b479facee4ba6415da8f3
 - filename: node-selectors/node-selector.md
   checksum: 8181c8634d9e2997fe4bd85ca124113ba3f40ae371f1813427e200e8b3ac9e84
 - filename: taints-and-tolerations/taints-n-tolerations.md
