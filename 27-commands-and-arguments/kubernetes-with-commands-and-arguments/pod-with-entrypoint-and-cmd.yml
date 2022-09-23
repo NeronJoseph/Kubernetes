@@ -7,4 +7,4 @@ spec:
     - name: ubuntu-sleeper
       image: ubuntu-sleeper
       command: ["sleep"] # ENTRYPOINT in Dockerfile
-      arg: ["10"] # CMD in Dockerfile
+      args: ["10"] # CMD in Dockerfile
