@@ -6,4 +6,4 @@ spec:
   container:
     - name: ubuntu-sleeper
       image: ubuntu-sleeper
-      arg: ["sleep", "10"] # CMD in Dockerfile
+      args: ["sleep", "10"] # CMD in Dockerfile
